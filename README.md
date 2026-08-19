@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Kamalesh] 👋
 
 - 🎓 B.Tech AI & ML Student (Class of 2028)
 - 🚀 Target Goal: MLOps Engineer & Cloud Architecture
